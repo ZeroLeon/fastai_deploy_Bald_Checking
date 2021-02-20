@@ -10,7 +10,8 @@ from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
 #export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
-export_file_url = 'https://www.dropbox.com/s/d55nfh074pu267s/export.pkl?raw=1'
+#export_file_url = 'https://www.dropbox.com/s/d55nfh074pu267s/export.pkl?raw=1'
+export_file_url = 'https://www.dropbox.com/s/otg05x4ti8mrdca/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
 #classes = ['black', 'grizzly', 'teddys']
